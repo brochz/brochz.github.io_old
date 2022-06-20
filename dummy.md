@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Dummy
 permalink: /dummy/
 ---
 This is a dummy page.
