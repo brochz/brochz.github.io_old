@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 domain: brochz.github.io
 
-title: brochz
+title: Justin Zhang
 email: zhangchuangchuang1@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Chuanghao Zhang | 个人网站
+  Personal website of J.Z. | 个人网站
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "brochz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: changchh55
+twitter_username: justinzhang666
 github_username:  brochz
 
 # Build settings
