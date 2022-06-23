@@ -8,7 +8,9 @@ permalink: /about_me/
 
 .self_intro_dic{
   font-size:1.2em;
-   
+ 
+  hyphens: auto;
+
 }
 
 
@@ -22,6 +24,7 @@ permalink: /about_me/
 
 .self_intro_dic p{
   text-align:justify;
+
 }
 </style>
 
