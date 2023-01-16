@@ -1,0 +1,33 @@
+---
+permalink: /heart/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/assets/css/heart.css" />
+  </head>
+  <body>
+    <h1 style="color:white; text-align:center; font-size:300%; ">TO 杜.</h1>
+    <div class="heart">
+      <i class="fa-solid fa-heart" onclick="play()"></i>
+    </div>
+
+    <script>
+        function play() {
+          var audio = document.getElementById("audio");
+          audio.play();
+        }
+      </script>
+  
+      <audio id="audio" src="/assets/stupid.mp3"></audio>
+  </body>
+</html>
